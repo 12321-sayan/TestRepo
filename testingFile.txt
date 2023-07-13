@@ -1,0 +1,6 @@
+<<<<<<< HEAD:testingFile
+kjhkjhkjhkjhHlw This Is A Text File For Testing Purpose
+=======
+Hlw This Is A Text File For Testing Purpose
+hi
+>>>>>>> d227bd7f33731609bd176bb88dd235d776180922:testingFile.txt
